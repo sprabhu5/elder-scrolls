@@ -1,7 +1,20 @@
 .App {
-  background-color:rgb(201, 201, 201);
+  background-color:rgb(240, 240, 240);
   min-height: 100vh;
 }
+
+h1{
+  font-size: 100px;
+  font-weight: 800;
+  background-image: linear-gradient(to left, #553c9a, #b393d3);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;}
+
+  input{
+    border-color: black;
+    border-radius: 10px;
+  }
 
 /* css for screen with width larger than 640px */
 @media only screen and (min-width: 640px) {
@@ -54,6 +67,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+
   }
 }
 
