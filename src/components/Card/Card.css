@@ -45,7 +45,7 @@
   
 }
 
-@media only screen and (min-width: 1400px) and (max-width:1800px) {
+@media only screen and (min-width: 1200px) and (max-width:1800px) {
   .Card {
     margin-left: 50px;
     margin-right: 30px;
@@ -86,9 +86,9 @@
 }
 
 
-@media only screen and (max-width: 1400px) {
+@media only screen and (max-width: 1200px) {
   .Card {
-    margin-left: 150px;
+    margin-left: 200px;
     margin-top: 5%;
     width: 50%;
     height: 60%;
