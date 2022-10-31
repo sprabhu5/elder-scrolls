@@ -3,7 +3,7 @@
 } */
 
 .Card:hover {
-  box-shadow: 0px 0px 100px #8b8b8b;
+  box-shadow: 0px 0px 100px #a88888;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2s ease-in;
