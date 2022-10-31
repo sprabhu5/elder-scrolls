@@ -64,6 +64,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 # elder-scrolls
+This is a web application which displayes a list of cards with the description. Initially 20 cards will be feched from an API and as you scroll down and hover on the card, more 20 cards will be fetched on everytime scroll function is called. User can also search cards by name after every user's input cards gets filtered. Loading symbol added white searching through cards. App is responsive i.e compatible with all screen sizes (Mobile, Tab, Desktop). I have attached few screenshot of the elder-scroll application below. 
+
 ![elder-scrolls1](https://user-images.githubusercontent.com/58062934/199046213-9da18989-e1aa-401b-ac6f-743140d0e986.PNG)
 
 
